@@ -1,5 +1,6 @@
 # TooReal
 <i>You've heard of BeReal. Get ready for TooReal.</i> <br>
+Check it out at https://tooreal.tech
 ### Intro
 We've all heard of BeReal. At some random point throughout the day, BeReal will send you a notification, and you have
 two minutes to take a photo using <b>both</b> the front and rear cameras. Then, the photo will be posted for all your
