@@ -14,3 +14,8 @@ computer screen and post it on the site. The next step in authenticity, TooReal 
 allowing for others to see a truly random point in your daily life. We also wanted to challenge the idea of "friends". Why
 should you be able to select who sees the photos you post? When creating TooReal, we decided that <b>everyone</b> should be
 able to see each other's posts, regardless of whether they know that person or not. <br>
+
+### How to Use
+To use TooReal, simply download screenshot.py, and run the file. You may have to ensure you have python and the appropriate 
+imports. The script will run automatically for you, leaving you free to go about your daily life while simultaneously sharing 
+it with the world.
