@@ -1,0 +1,14 @@
+CREATE TABLE images (
+    id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    filepath VARCHAR(255) NOT NULL,
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    userid INT NOT NULL
+);
+
+CREATE TABLE `users` (
+  `idUsers` int(11) PRIMARY KEY NOT NULL AUTO_INCREMENT,
+  `uidUsers` tinytext NOT NULL,
+  `emailUsers` tinytext NOT NULL,
+  `pwdUsers` longtext NOT NULL,
+  `userData` TEXT NOT NULL
+);
